@@ -1,38 +1,11 @@
 body {
-  font-family: Helvetica;
+  font-family: "Georgia";
 }
 
 /*Main header banner styling*/
 h1 {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   font-size: 100px;
   font-weight: bold;
-  color: khaki;
+  color: black;
   text-align: center;
-}
-
-/*Text styling for area headers*/
-h2 {
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
-}
-
-/*Background styling for area headers*/
-#brushes {
-  background-color: mediumspringgreen;
-}
-
-#frames {
-  background-color: lightcoral;
-}
-
-#paint {
-  background-color: skyblue;
-}
-
-/*Bold styling for prices*/
-strong {
-  font-weight: bold;
-  color: blue;
 }
